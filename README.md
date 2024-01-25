@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ...<br>
 - 📫 How to reach me ...<br>
 - ⚡ Fun fact: ...<br>
+![icon](https://e7.pngegg.com/pngimages/399/48/png-clipart-c-computer-icons-computer-programming-logo-others-miscellaneous-blue.png)
 <!-- ![C++ Icon](https://preview.redd.it/c-and-c-icons-v0-nmuax05zxoab1.gif?width=640&crop=smart&auto=webp&s=0de5214adb83bd0eac8ffe3512924e3f2921ff69) -->
 
 <!---
