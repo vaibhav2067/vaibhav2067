@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on ...<br>
 - 📫 How to reach me ...<br>
 - ⚡ Fun fact: ...<br>
+![C++ Icon](https://preview.redd.it/c-and-c-icons-v0-nmuax05zxoab1.gif?width=640&crop=smart&auto=webp&s=0de5214adb83bd0eac8ffe3512924e3f2921ff69)
+
 <!---
 vaibhav2067/vaibhav2067 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
