@@ -5,7 +5,7 @@ This project includes a smooth, looping GIF of a rotating Earth for visual refer
 
 ## 🔁 Preview
 
-![Rotating Earth](https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotating_earth_animated_transparent.gif)
+![Rotating Earth](./Rotating_earth_animated_transparent.gif)
 
 > A continuously rotating Earth animation (source: Wikimedia Commons).
 
