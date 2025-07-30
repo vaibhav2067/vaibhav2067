@@ -1,9 +1,19 @@
-<h1> 👋 Hi, I’m Vaibhav </h1>
-- 👀 I’m interested in ...<br>
-- 🌱 I’m currently learning ...<br>
-- 💞️ I’m looking to collaborate on ...<br>
-- 📫 How to reach me ...<br>
-- ⚡ Fun fact: ...<br>
+
+# 🌍 Rotating Earth Animation
+
+This project includes a smooth, looping GIF of a rotating Earth for visual reference.
+
+## 🔁 Preview
+
+![Rotating Earth](https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotating_earth_animated_transparent.gif)
+
+> A continuously rotating Earth animation (source: Wikimedia Commons).
+
+<!-- - 👀 I’m interested in ...<br> -->
+<!-- - 🌱 I’m currently learning ...<br> -->
+<!-- - 💞️ I’m looking to collaborate on ...<br> -->
+<!-- - 📫 How to reach me ...<br> -->
+<!-- - ⚡ Fun fact: ...<br> -->
 <!-- ![C++ Icon](https://preview.redd.it/c-and-c-icons-v0-nmuax05zxoab1.gif?width=640&crop=smart&auto=webp&s=0de5214adb83bd0eac8ffe3512924e3f2921ff69) -->
 
 <!---
